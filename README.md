@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranit Kumar Sahu</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">I'm a passionate DevOps Engineer from Bangalore. Welcome to my GitHub profile!</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
